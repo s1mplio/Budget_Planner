@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Budget_Planner/static/css/main.d20202a4.css",
+    "main.js": "/Budget_Planner/static/js/main.00602a3b.js",
+    "static/js/787.e597190e.chunk.js": "/Budget_Planner/static/js/787.e597190e.chunk.js",
+    "index.html": "/Budget_Planner/index.html",
+    "main.d20202a4.css.map": "/Budget_Planner/static/css/main.d20202a4.css.map",
+    "main.00602a3b.js.map": "/Budget_Planner/static/js/main.00602a3b.js.map",
+    "787.e597190e.chunk.js.map": "/Budget_Planner/static/js/787.e597190e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.00602a3b.js"
+  ]
+}
